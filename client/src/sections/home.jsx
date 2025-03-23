@@ -7,7 +7,7 @@ function Home() {
       <img src={Imghome} className=" flex object-cover w-11/12 h-150 mt-20 shadow-lg" alt="Home" />
       
       <div className=" flex flex-col justify-center items-center relative  bottom-15 md:bottom-20 bg-white bg-opacity-50 w-4/5 h-30  text-center p-4 text-indigo-900 uppercase font-light z-10 shadow-md ">
-        <h1 className="text-2xl font-bold">Picture your next amazing stay</h1>
+        <h1 className="text-2xl font-bold">Picture your jit next amazing stay</h1>
        
       </div>
       <div className="flex flex-col justify-center items-center relative bottom-10 ">
